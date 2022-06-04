@@ -23,11 +23,6 @@
 </div>  
 
 <br/>
-<div align="center">
-  
-![](https://gitwar.herokuapp.com/badge?username=bellhuffstutler)
-
-</div>
 
 ### Hihi! Nice to meet you! 
 I'm a Software Engineer that is starting to contribute to Open Source projects, and studying Full-Stack Development with 100Devs! I have almost 2 decades of experience with Linux-based OSes. I have very recently switched from Ubuntu to Arch Linux and I haven't looked back (Even if VSCode really doesn't seem to like it!) 
