@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋, I'm Beloise Huffstutler!</div>  
+## <div align="center"><img src="https://github.com/bellhuffstutler/bellhuffstutler/blob/main/header.jpeg" alt="banner that has a raccoon at a keyboard" /></div>  
   
 
 <div align="center">
@@ -21,11 +21,15 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<br/>
+<div align="center">
   
+![](https://gitwar.herokuapp.com/badge?username=bellhuffstutler)
 
+</div>
 
-
-### Glad to see you here!  
+### Hihi! Nice to meet you! 
 I'm a Software Engineer that is starting to contribute to Open Source projects, and studying Full-Stack Development with 100Devs! I have almost 2 decades of experience with Linux-based OSes. I have very recently switched from Ubuntu to Arch Linux and I haven't looked back (Even if VSCode really doesn't seem to like it!) 
 
 I enjoy creating things and problem solving, and I also really like helping people when I can, so I tend to stick around the freeCodeCamp forums, as well as the Catchup Crew channel in the 100Devs discord, because I am currently playing catchup as well (I found out about this year's cohort so late aa) 
@@ -47,6 +51,9 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
 
 - ❓ Ask me about anything related to BASH and Linux support  
   
+- 📫 How to reach me: `me at beloisehuffstutler dot codes`
+
+- 😄 Pronouns: she/her
 
 - ⚡ Fun fact: My first computer was a Windows ME, and I have been online and running forums since I was 12.  
 
@@ -99,28 +106,22 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellhuffstutler&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bellhuffstutler)](https://git.io/streak-stats)
-
 </td></tr></table>  
 
 <br/>  
 
-
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bellhuffstutler)](https://git.io/streak-stats)
+  
+</div>
 
 <br/>
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bellhuffstutler&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+</div>   
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/koohiitoraccoon" target="_blank" style="display: inline-block;">
