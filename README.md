@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Beloise Huffstutler</h1>
+<img align="center" src="https://github.com/bellhuffstutler/bellhuffstutler/blob/main/download.png" alt="banner that says Hi I'm Beloise Huffstutler" />
 <h3 align="center">A Software developer learning to be a Full-Stack Web Dev</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bellhuffstutler&label=Profile%20views&color=0e75b6&style=flat" alt="bellhuffstutler" /> </p>
