@@ -73,7 +73,6 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
 
 <!--START_SECTION:activity-->
 
-
 <br/>  
 
 
@@ -139,5 +138,9 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
             </a></div>
 <br />
 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+<br/>  
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
