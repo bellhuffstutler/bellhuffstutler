@@ -99,9 +99,15 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellhuffstutler&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bellhuffstutler)](https://git.io/streak-stats)
+
 </td></tr></table>  
 
 <br/>  
+
+
+
+<br/>
 
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
