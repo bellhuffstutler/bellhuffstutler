@@ -1,16 +1,6 @@
-- name: Profile Readme
+name: Profile Readme
   # You may pin to the exact commit or the version.
   # uses: actions-js/profile-readme@830a41756f7dac3430f82a6762b391168434e2c0
-  uses: actions-js/profile-readme@v1
-  with:
-    # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
-    github_token: $\{{ secrets.GITHUB_TOKEN }}
-    # Github profile username
-    username: bellhuffstutler
-    # TEMPLATE.md file path
-    template: # default is ./TEMPLATE.md
-    # README.md output file path
-    readme: # default is ./README.md
 
 on:
   workflow_dispatch:
