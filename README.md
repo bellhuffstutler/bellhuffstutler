@@ -67,6 +67,11 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
 
 </td></tr></table>  
 
+<br />
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <br/>  
 
 
