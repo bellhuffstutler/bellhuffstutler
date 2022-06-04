@@ -72,6 +72,12 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
 <br />
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#18](https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate/issues/18) in [freeCodeCamp/learn-bash-by-building-a-boilerplate](https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate)
+2. 🗣 Commented on [#18](https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate/issues/18) in [freeCodeCamp/learn-bash-by-building-a-boilerplate](https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate)
+3. 💪 Opened PR [#18](https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate/pull/18) in [freeCodeCamp/learn-bash-by-building-a-boilerplate](https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate)
+4. ❌ Closed PR [#17](https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate/pull/17) in [freeCodeCamp/learn-bash-by-building-a-boilerplate](https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate)
+5. 🗣 Commented on [#17](https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate/issues/17) in [freeCodeCamp/learn-bash-by-building-a-boilerplate](https://github.com/freeCodeCamp/learn-bash-by-building-a-boilerplate)
+<!--END_SECTION:activity-->
 
 <br/>  
 
