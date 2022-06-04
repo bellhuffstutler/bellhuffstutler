@@ -24,13 +24,16 @@
 
 <br/>
 
+<div align="center">
+  
 ### Hihi! Nice to meet you! 
 I'm a Software Engineer that is starting to contribute to Open Source projects, and studying Full-Stack Development with 100Devs! I have almost 2 decades of experience with Linux-based OSes. I have very recently switched from Ubuntu to Arch Linux and I haven't looked back (Even if VSCode really doesn't seem to like it!) 
 
 I enjoy creating things and problem solving, and I also really like helping people when I can, so I tend to stick around the freeCodeCamp forums, as well as the Catchup Crew channel in the 100Devs discord, because I am currently playing catchup as well (I found out about this year's cohort so late aa) 
 
 I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently, and hoping to be back up to at least conversational soon.  
-  
+
+</div
 
 <br/>  
 
