@@ -71,7 +71,7 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
 
 <br />
 
-<!--START_SECTION:activity-->
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 <br/>  
 
