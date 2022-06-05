@@ -146,6 +146,7 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [This is simply a test](blog.beloisehuffstutler.codes/this-is-simply-a-test)
 <!-- HASHNODE_BLOG:END -->
 <br/>  
 ----
