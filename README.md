@@ -110,11 +110,11 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bellhuffstutler&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bellhuffstutler&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellhuffstutler&hide_border=true&layout=compact" align="left" style="width: 100%" count_private="true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellhuffstutler&hide_border=true&layout=compact&count_private=true&theme=dark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
