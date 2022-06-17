@@ -23,7 +23,7 @@
 </div>  
 
 <div align="center">
-<img src="https://www.codewars.com/users/bellhuffstutler/badges/small" alt="codewars badge" />
+<img src="https://www.codewars.com/users/fullStackRacc/badges/small" alt="codewars badge" />
 </div>
 
 <br/>
