@@ -48,7 +48,7 @@ I love Coffee, Linux, and Raccoons. I am also studying Japanese more frequently,
 - 🔭 I’m currently working on [Vine 2](https://github.com/fullStackRacc/vine2)  
   
 
-- 🌱 I’m currently learning Javascript and Python  
+- 🌱 I’m currently learning TypeScript and Next.js  
   
 
 - ❓ Ask me about anything related to BASH and Linux support  
