@@ -1,7 +1,7 @@
 ## <div align="center"><img src="https://github.com/bellhuffstutler/bellhuffstutler/blob/main/header.jpeg" alt="banner that has a raccoon at a keyboard" /></div>  
   
 # 💫 About Me:
-- 🔭 I’m currently working on [Vine 2](https://github.com/fullStackRacc/vine2)  <br>- 🌱 I’m currently learning TypeScript and Next.js  <br>- ❓ Ask me about anything related to BASH and Linux support    <br>- 📫 How to reach me: `me at beloisehuffstutler dot codes`<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: My first computer was a Windows ME, and I have been online and running forums since I was 12. 
+- 🔭 I’m currently working on [Vine 2](https://github.com/fullStackRacc/vine2) & [Chitter](https://github.com/fullStackRacc/chitter) <br>- 🌱 I’m currently learning TypeScript and Next.js  <br>- ❓ Ask me about anything related to BASH and Linux support    <br>- 📫 How to reach me: `me at beloisehuffstutler dot codes`<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: My first computer was a Windows ME, and I have been online and running forums since I was 12. 
 
 
 ## 🌐 Socials:
