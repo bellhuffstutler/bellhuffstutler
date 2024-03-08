@@ -1,7 +1,7 @@
 ## <div align="center"><img src="https://github.com/bellhuffstutler/bellhuffstutler/blob/main/header.jpeg" alt="banner that has a raccoon at a keyboard" /></div>  
   
 # 💫 About Me:
-- 🔭 I’m currently working on [Trollian](https://github.com/fullStackRacc/trollian) & learning stuff for work<br>- 🌱 I’m currently learning TypeScript and Next.js  <br>- ❓ Ask me about anything related to BASH and Linux support    <br>- 📫 How to reach me: `me at beloisehuffstutler dot codes`<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: Raccoons wash their food and give good hugs. 
+- 🔭 I’m currently working on [Trollian](https://github.com/fullStackRacc/trollian) & learning stuff for work<br>- 🌱 I’m currently learning TypeScript and Next.js  <br>- ❓ Ask me about anything related to BASH and Linux support    <br>- 📫 How to reach me: `me at beloisehuffstutler dot codes`<br>- 😄 Pronouns: vae/vaer || she/her<br>- ⚡ Fun fact: Raccoons wash their food and give good hugs. 
 
 
 ## 🌐 Socials:
