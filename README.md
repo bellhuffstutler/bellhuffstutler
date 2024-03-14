@@ -1,3 +1,4 @@
+<div text-align="center">
 ## <div align="center"><img src="https://github.com/bellhuffstutler/bellhuffstutler/blob/main/header.jpeg" alt="banner that has a raccoon at a keyboard" /></div>  
   
 <h1 align="center">Hi 👋, I'm Beloise</h1>
@@ -63,4 +64,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fullStackRacc&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fullStackRacc&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fullStackRacc&theme=2077" height="180em" />
+</div>
 </div>
