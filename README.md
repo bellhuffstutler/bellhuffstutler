@@ -1,11 +1,10 @@
-<div text-align="center">
 ## <div align="center"><img src="https://github.com/bellhuffstutler/bellhuffstutler/blob/main/header.jpeg" alt="banner that has a raccoon at a keyboard" /></div>  
   
 <h1 align="center">Hi 👋, I'm Beloise</h1>
 <h3 align="center">I love Linux, Programming, and Raccoons</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fullStackRacc&label=Profile%20views&color=0e75b6&style=flat" alt="fullStackRacc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fullStackRacc&label=Profile%20views&color=0e75b6&style=flat" alt="fullStackRacc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullStackRacc&theme=onedark" alt="fullStackRacc" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullStackRacc&theme=onedark" alt="fullStackRacc" /></a> </p>
 
 - 🔭 I’m currently working on [Trollian](https://github.com/fullStackRacc/Trollian)
 - 🌱 I’m currently refreshing **Javascript, Typescript, React, Data Structures and Algos**
